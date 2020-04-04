@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/somalucz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://diplomatiq.org
+  * I am somalucz (https://keybase.io/somalucz) on keybase.
+  * I have a public key ASD7y3ALpi58u3GP2QoVRA0hkmdY-QFgPtkBFkcVGourwQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fbcb700ba62e7cbb718fd90a15440d21926758f901603ed9011647151a8babc10a",
+      "host": "keybase.io",
+      "kid": "0120fbcb700ba62e7cbb718fd90a15440d21926758f901603ed9011647151a8babc10a",
+      "uid": "d5e52e9e454b710a8ca80ae8b4b30e19",
+      "username": "somalucz"
+    },
+    "merkle_root": {
+      "ctime": 1584123946,
+      "hash": "9ad586075a56b37283e0deeefbd2540c103b1d801e7a81ca0c1a6ab93dd0ade8a76ef435ff1f7cdd7c6760b4de1af98734518d2414704fe226eb1900350636b0",
+      "hash_meta": "e4c666431bf8fea38ad84d50b700e4b017def331e211bb7a86b098da287bd601",
+      "seqno": 15360323
+    },
+    "service": {
+      "entropy": "YC9q4lpEKcdUgT51JQfrA6BR",
+      "hostname": "diplomatiq.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1584123963,
+  "expire_in": 504576000,
+  "prev": "3ca0efe43964d3f95f09d21a7865670e85f5aaa80f4f9c7b30221727655366b4",
+  "seqno": 38,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+8twC6YufLtxj9kKFUQNIZJnWPkBYD7ZARZHFRqLq8EKp3BheWxvYWTESpcCJsQgPKDv5Dlk0/lfCdIaeGVnDoX1qqgPT5x7MCIXJ2VTZrTEINAirzwotZ2eDNIbFqBtGwEdQARsvDTmb48NedG9fM5oAgHCo3NpZ8RAauBVtbuhzVkhZdGco8QveTJXNktuf17YABCMhkdSgnAd73oW9D+uqqDhbs/kwp4imsPxMPOj/axYCGp1wp77CqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFFawm4WCAKErzioFrHSO5fKV9Sy9K7f0EPAOnGjqj0ao3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/somalucz
+
+==================================================================

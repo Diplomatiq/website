@@ -1,0 +1,27 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Acknowledgments: https://diplomatiq.org/security-hall-of-fame.html
+Canonical: https://diplomatiq.org/.well-known/security.txt
+Contact: mailto:security@diplomatiq.org
+Encryption: https://diplomatiq.org/pgp-key.txt
+Encryption: openpgp4fpr:6fe24f126839c331869a8c1857d1b8a6eaa30cff
+Hiring: https://diplomatiq.org/security-jobs.html
+Policy: https://diplomatiq.org/security-policy.html
+Preferred-Languages: en, hu
+-----BEGIN PGP SIGNATURE-----
+
+wsFcBAEBCAAQBQJea84sCRBX0bim6qMM/wAA3igQAGZcllaBecgra5umrEwGCRo/
+UNhQQMjhS+QPAOXOFkqTiJemmHzrOL9W0KPUOjU0oInOOzJDSM3xrVX9MSRLAUaJ
+Uzeahuaon7nKEQvq7+5GZfPG+jdizA0ij4ouKFEr1vDGuHzvDOz85RCzoEazDIQ6
+rXjqD5UuRmjEoP7lqTuWP1PMFfMXtKTOpmS2qUQikL3xY49j5xpux1DfxcYmGZq+
+jgFcScic8poCUQJ/v+mm7mWxNHOe/Q0TzUSBeNBSubyGh/uTRUrHxlN8CVR4f1yN
+pHTaggOG4NdpJoqwFo0BzAt4E+8wAy7QSQzKKuMmc+rJXIkVYexdFwOwsy5TiYa3
+pa9BtTrkXKvgxqaxtY0USyDo4edjq2Lf/Jzwd8O8ejChfgMtDLPt0FVYoZtPx9TJ
+zjmvssdUCL00Vx0GppG3XR8yS4AfU/VjgvPGBLAwthrnlEhTXSZQtNGEeWDtTmjR
++039MckLVKYVSsP6CKILiGVl8VY4tZpbhCMRu5q+IEeLP+Uq/h1vK4wyy3dEz9VR
+QMCpUi/yAHQk9kHutuODb1CThv0OU0628TezPHHJcHajrL1YSDJiuMTQ6Z3Id2zt
+KzxRFdv+kjbkdYmp5roT4vldQV7rapMNkuNLEpotwQ6/On3jcm4y3ADLYIegy2LZ
+kiG2QFncpGSicvKfKnyF
+=5RY3
+-----END PGP SIGNATURE-----

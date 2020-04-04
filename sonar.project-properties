@@ -1,0 +1,15 @@
+# Standard properties
+sonar.organization=diplomatiq
+sonar.projectKey=Diplomatiq_website
+sonar.projectName=website
+sonar.projectVersion=1.0.0
+
+sonar.sources=src
+sonar.tests=test
+sonar.sourceEncoding=UTF-8
+
+# Meta-data for the project
+sonar.links.homepage=https://github.com/Diplomatiq/website
+sonar.links.ci=https://github.com/Diplomatiq/website/actions
+sonar.links.scm=https://github.com/Diplomatiq/website
+sonar.links.issue=https://github.com/Diplomatiq/website/issues
