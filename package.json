@@ -21,7 +21,6 @@
     "conventional-changelog-cli": "^2.0.31"
   },
   "husky": {
-    "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
-    "pre-push": "npm run lint && npm run build && npm run test"
+    "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
   }
 }
