@@ -6,7 +6,7 @@ We would like you to follow the following set of guidelines.
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [Diplomatiq Code of Conduct](https://github.com/Diplomatiq/website/blob/develop/CODE_OF_CONDUCT.md). By participating in any of our projects, you are expected to comply with our Code of Conduct. Please do not hesitate to report unacceptable behaviour to [conduct@diplomatiq.org](mailto:conduct@diplomatiq.org).
+This project and everyone participating in it is governed by the [Diplomatiq Code of Conduct](https://github.com/Diplomatiq/website/blob/master/CODE_OF_CONDUCT.md). By participating in any of our projects, you are expected to comply with our Code of Conduct. Please do not hesitate to report unacceptable behaviour to [conduct@diplomatiq.org](mailto:conduct@diplomatiq.org).
 
 ## Questions and problems
 
@@ -38,7 +38,7 @@ If you request a feature, use the [Feature request](https://github.com/Diplomati
 
 The following guidelines make easier to maintain a high-quality code base.
 
-1. Branch from `develop` (not from `master`).
+1. Branch from `master`.
 2. Create your improvement to the code base.
 
     - Make sure to follow the [style guide](#style-guide).
