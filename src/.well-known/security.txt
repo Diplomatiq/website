@@ -1,27 +1,27 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-Acknowledgments: https://diplomatiq.org/security-hall-of-fame.html
-Canonical: https://diplomatiq.org/.well-known/security.txt
+Acknowledgments: https://www.diplomatiq.org/security-hall-of-fame.html
+Canonical: https://www.diplomatiq.org/.well-known/security.txt
 Contact: mailto:security@diplomatiq.org
-Encryption: https://diplomatiq.org/pgp-key.txt
+Encryption: https://www.diplomatiq.org/pgp-key.txt
 Encryption: openpgp4fpr:6fe24f126839c331869a8c1857d1b8a6eaa30cff
-Hiring: https://diplomatiq.org/security-jobs.html
-Policy: https://diplomatiq.org/security-policy.html
+Hiring: https://www.diplomatiq.org/security-jobs.html
+Policy: https://www.diplomatiq.org/security-policy.html
 Preferred-Languages: en, hu
 -----BEGIN PGP SIGNATURE-----
 
-wsFcBAEBCAAQBQJea84sCRBX0bim6qMM/wAA3igQAGZcllaBecgra5umrEwGCRo/
-UNhQQMjhS+QPAOXOFkqTiJemmHzrOL9W0KPUOjU0oInOOzJDSM3xrVX9MSRLAUaJ
-Uzeahuaon7nKEQvq7+5GZfPG+jdizA0ij4ouKFEr1vDGuHzvDOz85RCzoEazDIQ6
-rXjqD5UuRmjEoP7lqTuWP1PMFfMXtKTOpmS2qUQikL3xY49j5xpux1DfxcYmGZq+
-jgFcScic8poCUQJ/v+mm7mWxNHOe/Q0TzUSBeNBSubyGh/uTRUrHxlN8CVR4f1yN
-pHTaggOG4NdpJoqwFo0BzAt4E+8wAy7QSQzKKuMmc+rJXIkVYexdFwOwsy5TiYa3
-pa9BtTrkXKvgxqaxtY0USyDo4edjq2Lf/Jzwd8O8ejChfgMtDLPt0FVYoZtPx9TJ
-zjmvssdUCL00Vx0GppG3XR8yS4AfU/VjgvPGBLAwthrnlEhTXSZQtNGEeWDtTmjR
-+039MckLVKYVSsP6CKILiGVl8VY4tZpbhCMRu5q+IEeLP+Uq/h1vK4wyy3dEz9VR
-QMCpUi/yAHQk9kHutuODb1CThv0OU0628TezPHHJcHajrL1YSDJiuMTQ6Z3Id2zt
-KzxRFdv+kjbkdYmp5roT4vldQV7rapMNkuNLEpotwQ6/On3jcm4y3ADLYIegy2LZ
-kiG2QFncpGSicvKfKnyF
-=5RY3
+wsFcBAEBCAAQBQJeibWVCRBX0bim6qMM/wAAcNUQAALdSDewOMQ5wlQAR4hRoCPS
+ejVLD5ac08Mu62yluX4i5OAjvKENXw2NtrTn4kuFlIQyX6heZChahfpJVIKnoVo5
+KuUmB/7zYmxW4e+3jzlGDtWNqmAReU3uT7NQODhUpp2cmKN7s8irNGM9dU5FzrD2
+axdnQnV37opKRshIWBvkKsdyydV5YAMAJS5BiQfOMzeLemiy/9YYP+GIcYIiAR1K
+lVMIDT0NP4WLXntvjTTqUed8eO0ZaZCQPaM/O1Kh3k1YB2AT2TN2FFa9/5/qBEI8
+OBiFk2GuDP289idza82FFCtPVyvoZfs7awjJXRKX1FyzypZ8PvUc/gpPWT24FWy1
+JoNUoVO3Ip5GS0u8850v3kZ4E4Z3xnym7gMSvAUNYv3lvfHZr+nBr+A0HZZWRMGK
+0TPOF2J3aZDfgWQ5dsWssAVLzECg4bf6OtpeUYG7JLbSnZssLKjPy6wXWj+zhpgd
+1d2gcSW24HZ0lWl7WkXlxYRMe62qEcgrnuQ5ievmC7hBluVqOmdfLd0xD3lXGSda
+1RfrjoODI30myObw6eSaaPaQQrynMg+/Q1yZ1iX++bnTpnIxFvz1aF70KTyadGz6
+0EqrMPy3Teq45m1J+Ho87U6+Nzyfm0agaY25fCGN5VT9dXOJXBze3FMP7I3mluHo
+fayaHqYTeUw7XeiGSgaG
+=ibqS
 -----END PGP SIGNATURE-----
