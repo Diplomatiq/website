@@ -18,4 +18,4 @@ jobs:
               with:
                   app-name: 'app-diplomatiqwebsite-prod-001'
                   package: 'src'
-                  publish-profile: ${{ secrets.AzureAppService_PublishProfile_4f384e7fe646435090ac2025edfb9c15 }}
+                  publish-profile: ${{ secrets.AZURE_PUBLISH_PROFILE_STAGING }}
