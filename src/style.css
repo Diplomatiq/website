@@ -1,0 +1,96 @@
+:root {
+    --brand-1: #4477bb;
+    --brand-2: #c6d5f0;
+    --brand-3: #88abd2;
+    --brand-4: #22222c;
+    --brand-5: #ffffff;
+    --brand-6: #00aa3e;
+    --brand-7: #f76500;
+    --brand-8: #225dac;
+    --brand-9: #6644bb;
+    --brand-10: #dd1e44;
+}
+
+html,
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    font-family: 'Helvetica Neue', sans-serif;
+    display: flex;
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+#wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+#navbar {
+    height: 70px;
+    width: 100%;
+    background-color: var(--brand-5);
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+#icon {
+    width: 50px;
+    height: 50px;
+    background: url(assets/images/diplomatiq-icon.svg) center / contain no-repeat;
+}
+
+#main {
+    flex: 1 0 auto;
+    background-color: var(--brand-4);
+    padding: 0 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#logo {
+    width: 400px;
+    height: 100px;
+    max-width: 100%;
+    margin: 20px auto 0 auto;
+    background: url(assets/images/diplomatiq-logo.svg) center / contain no-repeat;
+}
+
+#main-headline {
+    text-align: center;
+    color: var(--brand-5);
+    font-weight: 300;
+    margin: 10px 0 45px;
+}
+
+#cta {
+    transition: background-color 200ms;
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    max-width: 100%;
+    text-align: center;
+    height: 60px;
+    line-height: 58px;
+    background: var(--brand-10);
+    color: var(--brand-5);
+    font-weight: 700;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#cta:hover {
+    background-color: #ba1939;
+}
